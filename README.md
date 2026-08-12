@@ -10,6 +10,7 @@ Scoped deliberately small so it trains in a reasonable time on a laptop CPU,
 while still being a genuine end-to-end ML project.
 
 ---
+<img width="1462" height="807" alt="image" src="https://github.com/user-attachments/assets/7a1bb69f-28ad-43d1-a84a-64c99127c7ea" />
 
 ## 1. Project Plan (2 weeks)
 
